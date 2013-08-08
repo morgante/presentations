@@ -7,4 +7,11 @@
 .demo iframe {
   position: relative;
   top: -200px;
+  width:1400px;
+  height:700px;
+}
+
+/* hide controls */
+g[transform="translate(10,10)"] {
+  display: none;
 }
