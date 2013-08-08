@@ -2,3 +2,9 @@
 #introduction img.bi {
   width: 11.6em;
 }
+
+/* demo slide */
+.demo iframe {
+  position: relative;
+  top: -200px;
+}

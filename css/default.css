@@ -137,8 +137,9 @@ h1 {
 /* # steps */
 .step {
     position: relative;
-    width: 900px;
-    padding: 40px;
+    min-width: 1000px;
+    max-height: 1300px;
+    padding: 0px;
     margin: 20px auto;
 
     -webkit-box-sizing: border-box;
